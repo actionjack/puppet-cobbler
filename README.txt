@@ -1,5 +1,5 @@
 Class: puppet-cobbler
-Author: ActionJack <martin@uncommonsense-uk.com>
+Author: ActionJack <martin at uncommonsense-uk com>
 Twitter: @ActionJack
 
 Class: cobbler
