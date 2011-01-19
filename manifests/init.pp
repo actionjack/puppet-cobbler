@@ -1,17 +1,2 @@
-# Class: cobbler
-#
-# This module manages cobbler
-#
-# Parameters:
-#
-# Actions:
-#
-# Requires:
-#
-# Sample Usage:
-#
-# [Remember: No empty lines between comments and class definition]
-class cobbler {
-
-
-}
+import "classes/*.pp"
+# import "definitions/*.pp" # not in use yet.
