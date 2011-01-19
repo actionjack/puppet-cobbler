@@ -1,11 +1,5 @@
 name    'uncommonsense-cobbler'
 version '0.0.1'
-source 'UNKNOWN'
-author 'uncommonsense'
-license 'UNKNOWN'
-summary 'UNKNOWN'
-description 'UNKNOWN'
-project_page 'UNKNOWN'
+author 'ActionJack <martin at uncommonsense-uk com>'
 
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+dependency 'ripienaar/puppet-concat', '>= 0.0.1'
